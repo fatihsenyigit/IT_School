@@ -36,6 +36,7 @@ button {
     background-color: brown;
     color: white;
     font-weight: 600;
+    
 }
 
 h3{
@@ -49,6 +50,11 @@ img:hover {
 
 button:hover {
     scale: 1.1;
+}
+
+a {
+    text-decoration:none;
+    color: white;
 }
 
 
